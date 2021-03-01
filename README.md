@@ -2,7 +2,8 @@ SOCIAL NETWORKING KATA
 -----------------------
 
 Steps to build the project:
-- Clone to the project to local computer and open it as a maven project by selecting pom.xml file.
+- Clone the repo to local computer.
+- Open repo as a maven project by selecting pom.xml file.
 
 Project Management Tool:
 - Maven
@@ -21,3 +22,5 @@ This project mainly consists of 4 different classes.
 - UserMessage class is used to create a post. We are required to pass User (who created this message) & message content inorder to initialize.
 - UserTimeline is a class which contains all the mapping of users and their posts.
 - TimeAgo is a helper class which helps converting timestamp to x seconds ago format.
+
+Test cases are provided in the Test folder
